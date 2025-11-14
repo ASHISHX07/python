@@ -2,10 +2,12 @@ a = complex(8, 2)
 b = True
 c = "Ash"
 d = None
+e = 12
 print("the type of a is:", type(a)) # int (4), float (4.2), complex (for complex numbers)
 print("the type of a is:", type(b)) # boolean (true, false)
 print("the type of a is:", type(c)) # string ("Hello world")
 print("the type of a is:", type(d)) # None (no type)
+print("the type of a is:", type(e)) # None (int 12)
 
 # we will learn about list, tuples and dictionary in coming chapters
 
