@@ -19,7 +19,7 @@ def average(*numbers):      # *numbers gives a tuple with any number of argument
 c = average(4,6,8,10)
 print(c)
 
-# def name(**name):       # **name gives a dictionary with any number of key value pairs given
-#     print("Hello,", name["fname"], name["mname"], name["lname"])
+def name(**name):       # **name gives a dictionary with any number of key value pairs given
+    print("Hello,", name["fname"], name["mname"], name["lname"])
 
-# name(mname = "Buchanan", lname = "Barnes", fname = "James")
+name(mname = "Buchanan", lname = "Barnes", fname = "James")
