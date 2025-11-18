@@ -9,7 +9,7 @@ print(info)
 
 # a = {}        # this will create an empty dictionary not a set
 a = set()       # to create an empty set use the set() method 
-print(type(a)) 
+print(type(a))
 
 for value in info:      # sets can be used with loops
     print(value)
