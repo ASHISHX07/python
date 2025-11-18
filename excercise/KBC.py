@@ -1,0 +1,1 @@
+# I've given to make a KBC game but I'm pretty sure i can do it very easily and they also didn't gave me any questions and their options and answers they gave freedom for it as we want but I'm pretty sure i can do it very easily so just skipping this
